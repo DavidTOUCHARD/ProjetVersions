@@ -2,7 +2,7 @@
 package eu.ensup.projetinterface.domaine;
 
 import java.util.List;
-//classe avenger
+//classe avenger.java
 public class Avenger {
 	
 	private String nom;
